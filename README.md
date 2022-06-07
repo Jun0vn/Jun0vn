@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=F7F7F7&lines=Hi+there)](https://git.io/typing-svg)👋
+Hi There👋
 
 <!--
 **Jun0vn/Jun0vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
