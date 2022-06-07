@@ -8,5 +8,9 @@ Hi There👋
   ## My GitHub Stats
   
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jun0vn&count_private=true&show_icons=true&theme=dracula" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jun0vn&count_private=true&show_icons=true&theme=dracula" />
+</div>
+<div align="right">
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0vn&layout=compact)](https://github.com/Jun0vn/github-readme-stats)
+" />
 </div>
