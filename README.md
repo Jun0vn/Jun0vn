@@ -9,5 +9,5 @@ Hi There👋
 
 <div align="left">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jun0vn&count_private=true&show_icons=true&theme=dracula" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0vn&theme=dracula&layout=compact&langs_count=10" />
+  <img height="180cm" width="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0vn&theme=dracula&layout=compact&langs_count=10" />
 </div>
