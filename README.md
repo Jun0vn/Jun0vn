@@ -6,8 +6,3 @@ Hi There👋
   • 📫 How to reach me: ngoduyhung738@gmail.com
   
  ## My GitHub Stats
-
-<div align="left">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Jun0vn&count_private=true&show_icons=true&theme=dracula" />  
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0vn&theme=dracula&layout=compact&langs_count=10" />
-</div>
