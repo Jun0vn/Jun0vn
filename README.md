@@ -27,7 +27,3 @@ Hi There👋
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jun0vn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=923894053223940136)
