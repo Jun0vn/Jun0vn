@@ -30,4 +30,4 @@ Hi There👋
 
 
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<923894053223940136>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=923894053223940136)
