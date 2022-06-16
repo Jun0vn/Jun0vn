@@ -25,5 +25,3 @@ Hi There👋
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jun0vn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Jun0vn&icon=0&color=0)](https://visitcount.itsvg.in)
