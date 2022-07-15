@@ -3,9 +3,9 @@ Hi There👋
 
 • ✌ I'm Khanh Hung, also known as Jun0vn or KhanhHung or khanhhung08
 
-• 🌱 Currently i'm learning Java
+• 🌱 Currently i'm learning C++
 
-• ⚡ I know a little about HTML and CSS
+• ⚡ I know a "little" about Java, HTML and CSS
 
 • 😄 My Website: https://khanhhung.me/
 
