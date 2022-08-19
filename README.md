@@ -7,8 +7,6 @@ Hi There👋
 
 • ⚡ I know a "little" about Java, HTML and CSS
 
-• 😄 My Website: https://khanhhung.me/
-
 • 📫 How to reach me: ngoduyhung738@gmail.com
 
 
